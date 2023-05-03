@@ -1,0 +1,7 @@
+body{
+    text-align: center;
+    background-color: bisque;
+    background-image: linear-gradient(to right,rgb(235, 232, 241),rgb(98, 177, 233));
+    font-size: 30px;
+}
+
