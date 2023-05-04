@@ -1,7 +1,43 @@
 body{
-    text-align: center;
     background-color: bisque;
-    background-image: linear-gradient(to right,rgb(235, 232, 241),rgb(98, 177, 233));
-    font-size: 30px;
+    background-image: linear-gradient(to right,rgb(235, 232, 241),rgb(156, 76, 231));
+    
 }
 
+
+.aboutme{
+    font-size: 50px;
+    text-align: center;
+}
+.personal_details{
+    font-size: 50px;
+    text-align: center;
+}
+.daily_routine{
+    font-size: 50px;
+    text-align: center;
+}
+img{
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+    text-align: center;
+}
+input {
+    border: 2px solid rgb(20, 19, 19);
+    border-radius: 4px;
+    width: 130px;
+    height: 30px;
+    text-align: right;
+  }
+label{
+    font-size: large;
+    text-align: right;
+    font-style: bold;
+    -webkit-text-fill-color: rgb(0, 0, 0);
+    font-size: 30px;
+    text-align: right;
+}
+h1{
+    text-align: center;
+}
