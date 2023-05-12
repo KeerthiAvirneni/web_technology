@@ -1,0 +1,64 @@
+body{
+    background-color: green;
+    margin-left: auto;
+}
+*{
+    
+    margin-top: auto;
+    margin-bottom: auto;
+}
+h2{
+    color: yellow;
+    font-weight: bold;
+}
+input{
+    border-radius: 5px;
+    background-color: white;
+}
+#title{
+    color: rgb(160, 3, 3);
+    text-align: center;
+}
+.row {
+    display: flex;
+
+
+ 
+}
+.col {
+    flex: 0;
+    margin-right: 10px;
+    float: left;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    
+}
+
+#section{
+    width: auto;
+    background-color: white;
+    border-radius: 5px;
+}
+.gender{
+    color: black;
+
+}
+::placeholder{
+    color: blue;
+}
+h4{
+    color: white;
+}
+#submit {
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    border-radius: 6px;
+    border-width: medium;
+    border-color: aquamarine;
+    background-color: blue;
+    color: yellow;
+}
+
+  
